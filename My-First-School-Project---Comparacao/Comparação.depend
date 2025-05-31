@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697836638 source:c:\users\migue\documents\documentos\area 51\programação\comparação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
